@@ -1,5 +1,5 @@
 # Praticas_do_curso_de_Java
-Códigos de exercícios práticos do curso de Java do Nélio Alves e um desafio do meu trabalho, ainda não concluído.
+Códigos de exercícios práticos do curso de Java do Nélio Alves.
 Exercícios de programação orientada a objetos, com encapsulamento, poliformismo, herança.
 Lógica de programação.
 Interfaces e implementações.
